@@ -4,7 +4,7 @@ ecommerce
 
 ## Description
 
-A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+A mysql database,application backend for an e-commerce site.
   
 Below is the video showing the functionality of the application:
 
@@ -79,6 +79,4 @@ Enter PW when promted
 
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:bensavage100@gmail.com) , [GitHub](https://github.com/savagescoles)<br />
-
-![profile picture](/profilepic.jpeg)
+✉️ Contact me with any questions: [GitHub](https://github.com/savagescoles)
