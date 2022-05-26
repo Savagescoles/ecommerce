@@ -5,7 +5,7 @@ const sequelize = require('./config/connection');
  
 // Express //
 const app = express();
-const PORT = process.env.PORT || 3002;
+const PORT = process.env.PORT || 15000;
 
 // Sets up the Express app to handle data parsing //
 app.use(express.json());
@@ -21,3 +21,4 @@ sequelize.sync({ force: false }).then(() => {
       console.log(`App listening on port ${PORT}!`);
     });
 });
+
